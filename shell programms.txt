@@ -8,3 +8,5 @@ for file in `ls`; do
     mv ".utf8_$file" "$file"
 done
 
+
+
